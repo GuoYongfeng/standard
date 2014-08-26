@@ -130,7 +130,7 @@ NOT」,「SHOULD」,「SHOULD NOT」,「RECOMMENDED」,「MAY」和「OPTIONAL�
 
     ```html
     //good
-    <script src="//fex.baidu.com/example.js"></script>
+    <script src="//www.richinfo.cn/example.js"></script>
     ```
 
 * 应该「SHOULD」省略自闭合标签结尾的斜杠。
